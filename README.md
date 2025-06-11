@@ -1,3 +1,4 @@
+# Importações de Bibliotecas
 
     import numpy as np
     import matplotlib.pyplot as plt
